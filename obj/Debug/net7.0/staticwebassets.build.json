@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "BJ8XFjcQM7dDFOVeRbA/KXmm88pVrZvDhIBga/aWJ2U=",
+  "Source": "api_images",
+  "BasePath": "_content/api_images",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "api_images\\wwwroot",
+      "Source": "api_images",
+      "ContentRoot": "C:\\Projects\\api_images\\wwwroot\\",
+      "BasePath": "_content/api_images",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
